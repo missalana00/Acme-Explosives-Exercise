@@ -1,0 +1,114 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+        {
+            "id": 1,
+            "type": 0,
+            "name": "Bottle Rockets",
+            "description": "A bottle rocket is a very small skyrocket."
+        },
+        {
+            "id": 2,
+            "type": 0,
+            "name": "Catherine Wheel",
+            "description": "Rotates quickly, producing a display of sparks and coloured flame.."
+        },
+        {
+            "id": 3,
+            "type": 1,
+            "name": "High-End Neighborhood",
+            "description": "Show how fancy you are with elegant $$$ signs in the sky."
+        },
+        {
+            "id": 4,
+            "type": 1,
+            "name": "Beach Town",
+            "description": "Palm Trees in the sky because we know you can't get enough of them."
+        },
+        {
+            "id": 5,
+            "type": 1,
+            "name": "Run Away",
+            "description": "You absolutely should not trust this chain restaraunt to be setting off explosives."
+        },
+        {
+            "id": 6,
+            "type": 2,
+            "name": "Disney World",
+            "description": "Slight modifications of classically beloved characters."
+        },
+        {
+            "id": 7,
+            "type": 2,
+            "name": "New Years in Space",
+            "description": "Celebrate at your favorite resort with insanity that can be seen by aliens."
+        },
+        {
+            "id": 8,
+            "type": 2,
+            "name": "PornHub Special",
+            "description": "We all know the porn industry has access to the best fireworks."
+        },
+        {
+            "id": 9,
+            "type": 3,
+            "name": "The Big Bad Wolf",
+            "description": "Pretty much the equivalent of blowing on your house."
+        },
+        {
+            "id": 10,
+            "type": 3,
+            "name": "x9302-90",
+            "description": "The best in the biz for demolishing paper-thin walls."
+        },
+        {
+            "id": 11,
+            "type": 3,
+            "name": "Neighbor-Terrifier 3000",
+            "description": "Want to freak out your neighbor? Try blowing up their house from afar."
+        },
+        {
+            "id": 12,
+            "type": 4,
+            "name": "x9924-99",
+            "description": "KABOOM."
+        },
+        {
+            "id": 13,
+            "type": 4,
+            "name": "Skyscraper-scraper",
+            "description": "Will erase any memory of that ugly old skyscraper."
+        },
+        {
+            "id": 14,
+            "type": 4,
+            "name": "I'm Done With This Job",
+            "description": "Why not take the building with you?"
+        },
+        {
+            "id": 15,
+            "type": 5,
+            "name": "x1224-93",
+            "description": "Intended to finally make North and South Dakota one fucking state."
+        },
+        {
+            "id": 16,
+            "type": 5,
+            "name": "Destroy Spirits",
+            "description": "Must have high diplomatic ranking to pull this one."
+        },
+        {
+            "id": 17,
+            "type": 5,
+            "name": "BUT I'M LE TIRED",
+            "description": "Destory ze world."
+        }
+    ]
+}
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help

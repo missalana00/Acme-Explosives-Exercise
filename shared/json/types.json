@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "Personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "Display Fireworks",
+            "description": "Appropriate license/permit necessary"
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "Mass Distribution Fireworks",
+            "description": "Class 1.1G"
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "Class 1 Demo",
+            "description": "Demo explosive designed for a minor building"
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "Class 2 Demo",
+            "description": "Demo explosive designed for a skyscraper"
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "Class 3 Demo",
+            "description": "Equivalent of an atomic bomb"
+        }
+    ]
+}
